@@ -1,3 +1,10 @@
+# Ecommerce Admin
+
+[LIVE DEMO](https://ecommerce-admin-lujtqukud-awnish04.vercel.app/5e641a1e-312f-4d2e-936e-5f20041bd8d0)
+
+![screencapture-ecommerce-admin-lujtqukud-awnish04-vercel-app-5e641a1e-312f-4d2e-936e-5f20041bd8d0-2023-12-16-21_31_56](https://github.com/awnish04/ecommerce-admin/assets/64547504/a82d1abd-19c3-4e80-bfd5-0bd2577075a4)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
