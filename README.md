@@ -1,4 +1,4 @@
-# Ecommerce Admin
+# Ecommerce Admin Dashboard
 
 [LIVE DEMO](https://ecommerce-admin-lujtqukud-awnish04.vercel.app/5e641a1e-312f-4d2e-936e-5f20041bd8d0)
 
